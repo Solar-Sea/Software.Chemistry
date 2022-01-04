@@ -1,6 +1,6 @@
 # Software.Chemistry
 # Electrochemistry Instrumentation
-## Ivium:
+## Ivium
 [Home:](https://www.ivium.com/software/)
 
 ### channel: [toon peeters](https://www.youtube.com/channel/UCiu-AmjV7j7P7vB12LvvopQ)
